@@ -1,2 +1,2 @@
 FROM nginx:1.10
-COPY sample-website /usr/share/nginx/html
+ADD index.html /usr/share/nginx/html/
