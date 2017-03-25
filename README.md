@@ -3,5 +3,5 @@
 ## Build image
 
 ```bash
-docker built -t curs/docker-ex1 .
+docker built -t curs_docker/ex1 .
 ```
