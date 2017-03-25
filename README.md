@@ -3,5 +3,5 @@
 ## Build image
 
 ```bash
-docker built -t myrepo/nginx1 .
+docker built -t curs/docker-ex1 .
 ```
